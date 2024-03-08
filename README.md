@@ -1,0 +1,1 @@
+This repository contains SQL queries for analyzing COVID-19 data from the PortfolioProject database, focusing on CovidDeaths and CovidVaccinations tables. The queries provide insights into various aspects of the pandemic, including infection rates, death counts, vaccination progress, and more.
